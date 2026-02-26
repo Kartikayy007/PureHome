@@ -28,14 +28,14 @@
 
 ## Screenshots
 
-![alt text](<assets/Screenshot 2026-03-25 at 2.02.25 AM.png>)
-![alt text](<assets/Screenshot 2026-03-25 at 4.39.38 PM.png>)
-![alt text](<assets/Screenshot 2026-03-25 at 10.03.44 PM.png>)
-![alt text](<assets/Screenshot 2026-03-25 at 10.03.58 PM.png>)
-![alt text](<assets/Screenshot 2026-03-25 at 10.04.07 PM.png>)
-![alt text](<assets/Screenshot 2026-03-25 at 10.04.30 PM.png>)
-![alt text](<assets/Screenshot 2026-03-25 at 10.04.50 PM.png>)
-![alt text](<assets/Screenshot 2026-03-25 at 10.05.03 PM.png>)
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="assets/Screenshot 2026-03-25 at 2.02.25 AM.png" width="200"> | <img src="assets/Screenshot 2026-03-25 at 4.39.38 PM.png" width="200"> | <img src="assets/Screenshot 2026-03-25 at 10.03.44 PM.png" width="200"> | <img src="assets/Screenshot 2026-03-25 at 10.03.58 PM.png" width="200"> |
+| <img src="assets/Screenshot 2026-03-25 at 10.04.07 PM.png" width="200"> | <img src="assets/Screenshot 2026-03-25 at 10.04.30 PM.png" width="200"> | <img src="assets/Screenshot 2026-03-25 at 10.04.50 PM.png" width="200"> | <img src="assets/Screenshot 2026-03-25 at 10.05.03 PM.png" width="200"> |
+
+</div>
 
 
 ---
